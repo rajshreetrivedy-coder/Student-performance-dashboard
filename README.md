@@ -45,7 +45,7 @@ The dataset contains information about:
 ---
 
 ## 📷 Dashboard Preview
-![shree](whatsapp.png)
+![studentperformance](dashboard.png)
 
 ---
 
